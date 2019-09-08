@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Bram Thomas Ratz</title>
+    <link>/tags/demo/</link>
+      <atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Bram Thomas Ratz</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Demo</title>
+      <link>/tags/demo/</link>
+    </image>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;title: FaQ2Var (Fastq to variant calling pipeline)
+summary: A variant calling pipeline for FASTQ, .BAM, or .SAM files. Returns a VCF file. &lt;code&gt;https://github.com/bramratz/BINF6410-assignment-2.git&lt;/code&gt;.
+tags:
+- Bioinformatics
+date: &amp;ldquo;2018&amp;rdquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;optional-external-url-for-project-replaces-project-detail-page&#34;&gt;Optional external URL for project (replaces project #detail page).&lt;/h1&gt;
+
+&lt;p&gt;#external_link: &lt;a href=&#34;http://example.org&#34; target=&#34;_blank&#34;&gt;http://example.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;#image:
+  #caption: Photo by Toa Heftiba on Unsplash&lt;/p&gt;
+
+&lt;h2 id=&#34;focal-point-smart&#34;&gt;#focal_point: Smart&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
